@@ -25,3 +25,5 @@
 - How to print on commandline - echo
 - How can we go back to normal user -exit command will bring us back to normal user
 
+## How can we install pacages - sudo apt-get install nginx
+How we can check status of programms - systemctl status nginx 
